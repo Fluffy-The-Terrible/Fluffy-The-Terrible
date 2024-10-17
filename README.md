@@ -1,4 +1,4 @@
-- Sup bitches it's ya girl Rose (She/Her)
+- Sup nerds it's ya girl Rose (She/Her)
 - Electrical engineer/musician with a vested interest in audio processing and open-source music software
 - Currently working on _____
 - Looking to learn more about DSP and ASP for musical applications
